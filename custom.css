@@ -34,7 +34,11 @@ body {
 
 .reveal ul li {
     margin-bottom: 0.5em;
-    font-size: 1.1em;
+    font-size: 1.0em;
+}
+
+.reveal ul li ul li:first-child{
+    margin-top: 0.5em;
 }
 
 .midashi {

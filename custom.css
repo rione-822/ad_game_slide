@@ -37,6 +37,10 @@ body {
     font-size: 1.1em;
 }
 
+.midashi {
+    list-style-type: none;
+}
+
 .food-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
